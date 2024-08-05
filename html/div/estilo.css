@@ -1,0 +1,69 @@
+
+#cabecalho {
+    background: #7C442B;
+    color: white; 
+    padding: 20px; 
+    text-align: center; 
+}
+
+#cabecalho img {
+    max-width: 100%; 
+    height: auto; 
+}
+
+#cabecalho ul {
+    list-style-type: none; 
+    padding: 0;
+    margin: 0; 
+}
+
+#cabecalho li {
+    display: inline; 
+    margin: 0 15px; 
+    font-size: 18px; 
+}
+
+#cabecalho li a {
+    text-decoration: none; 
+    color: white;
+}
+
+
+#conteudo-principal {
+    background-color: brown;
+    color: white; 
+    padding: 20px; 
+    display: flex;  
+    justify-content: space-between; 
+}
+
+.coluna {
+    background: tan;
+    padding: 10px;
+    flex: 1; 
+    margin: 0 10px; 
+    text-align: center; 
+}
+
+#rodape {
+    background-color: blue;
+   
+}
+.azul {
+    font-size: 5;
+    color: azure;
+}
+.conteudo {
+    border-color: red green aqua;
+    padding: 1px; 
+    border-width: 2px 2px 2px;
+    border-style: solid;
+}
+.tamanho{
+    font-size: px5;
+    text-align: center;
+    background-image: url(/img/OIP.jpg);
+}   
+.fundo {
+    background-color: blue;
+}
