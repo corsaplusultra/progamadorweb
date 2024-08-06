@@ -1,0 +1,94 @@
+.fundo {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+    margin: 0;
+    padding: 0;
+    background-color: #d2d2c1
+
+}
+
+.home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center; 
+}
+
+.capa {
+    max-width: 100%;
+    height: auto; 
+}
+
+#yy {
+    margin: 20px 0;
+    
+}
+
+#Sobre {
+    max-width: 800px;
+    text-align: center;
+    padding: 50px;
+    background: #f9f9f9;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+#sobre2{
+    max-width: 800px;
+    text-align: center;
+    padding: 50px;
+    background: #f9f9f9;
+    box-shadow:  0 0 10px rgba(0, 0, 0, 0.1);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#sobre3{
+    max-width: 800px;
+    text-align: center;
+    padding: 50px;
+    background: #f9f9f9;
+    box-shadow:  0 0 10px rgba(0, 0, 0, 0.1);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#sobre4{
+    max-width: 800px;
+    text-align: center;
+    padding: 50px;
+    background: #f9f9f9;
+    box-shadow:  0 0 10px rgba(0, 0, 0, 0.1);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#direitos {
+    margin-top: 20px;
+}
+
+#yy2{
+    margin-top: 20px;
+   
+}
+
+.fundo2{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 280vh; 
+    margin: 0;
+    padding: 0;
+    background-color: #d2d2c1
+
+}
+
+.fundo3{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 130vh; 
+    margin: 0;
+    padding: 0;
+    background-color: #d2d2c1
+
+}
