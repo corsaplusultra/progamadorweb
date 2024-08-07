@@ -1,0 +1,58 @@
+/* Reset de estilos básicos (opcional) */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilos para a página */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+/* Container principal */
+.container {
+    border: 1px solid #ccc;
+    padding: 10px;
+    overflow: hidden; /* Para ajustar ao conteúdo flutuante */
+    color: #000;
+}
+
+/* Elemento flutuante */
+.caixaflutuante {
+    float: left;
+    width: 200px;
+    padding: 10px;
+    margin-right: 10px;
+    border: 2px solid #000;
+    background-color: #f0f0f0;
+    color: #000;
+}
+
+/* Parágrafo */
+p {
+    margin-left: 220px; /* Para evitar que o texto vá para baixo do elemento flutuante */
+    padding: 10px;
+}
+.caixa{
+    border: 1px solid #28f000;
+    padding: 10px;
+    overflow: hidden;
+    color: chocolate;
+    margin: 10px;
+}
+
+.caixa2{
+    float: left;
+    width: 100px;
+    padding: 10px;
+    margin-right: 5px;
+    border: 2px solid red;
+    background-color: turquoise;
+    color: blue;
+}
+p{
+    margin-left: 220px;
+    padding: 10px;
+}
