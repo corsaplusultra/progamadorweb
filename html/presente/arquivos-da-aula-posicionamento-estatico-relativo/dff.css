@@ -1,0 +1,17 @@
+body{
+background: blue;
+}
+#container{
+    background: white;
+    width: 900px;
+    margin: auto;
+    padding: 10px;
+    position: relative;
+}
+.relative{
+    border: 1px solid red;
+    position: fixed;
+ 
+
+
+}
